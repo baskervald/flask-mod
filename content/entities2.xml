@@ -1,0 +1,8 @@
+<entities anm2root="gfx/" version="5">
+  <entity anm2path="nip.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" name="Nip" numGridCollisionPoints="24" shadowSize="17" stageHP="0" shutdoors="false" variant="0">
+    <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+  </entity>
+  <entity anm2path="005.090_LittleBattery.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" name="Fake Battery" numGridCollisionPoints="24" shadowSize="17" stageHP="0" shutdoors="false" variant="1">
+    <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+  </entity>
+</entities>
